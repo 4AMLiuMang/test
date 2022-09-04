@@ -41,8 +41,8 @@
 
 #Right img{width: 25px;height: 25px;}
 #Right b{font-size: 16px;color: rgb(45, 100, 251);}
-#Right a{font-size: 12px;color: rgb(45, 100, 251);}
-#Right p{font-size: 6px;color: rgb(100, 100, 100)}
+#Right a{font-size: 14px;color: rgb(45, 100, 251);}
+#Right p{font-size: 12px;color: rgb(100, 100, 100)}
 #R1{position: absolute;width: 100%;height: 25%;top: 0%;}
 #R2{position: absolute;width: 100%;height: 45%;top: 25%;}
 #R3{position: absolute;width: 100%;height: 30%;top: 70%;}
@@ -54,9 +54,9 @@
 #R31 b{position: absolute;left: 15%;top: 12%;}
 #R12{position: absolute;width: 100%;height: 35%;top: 15%;}
 #R32{position: absolute;width: 80%;height: 85%;bottom: 0%;left: 10%;}
-#R1222{position: absolute;width: 30%;height: 100%;left: 0px;top: 0px;text-align: center;}
-#R1333{position: absolute;width: 70%;height: 100%;right: 0px;top: 0px;}
-#R1555{position: absolute;width: 67%;height: 100%;right: 0px;bottom: 0px;right: 3%;}
+#R1222{position: absolute;width: 30%;height: 100%;left: 0px;top: 0px;text-align: center;font-size: 14px;}
+#R1333{position: absolute;width: 70%;height: 100%;right: 0px;top: 0px;font-size: 12px;}
+#R1555{position: absolute;width: 67%;height: 100%;right: 0px;bottom: 0px;right: 3%;font-size: 12px;}
 #R21{position: absolute;width: 100%;right: 0%;height: 12%;}
 #R21 img{position: absolute;left: 5%;top: 10%;}
 #R21 b{position: absolute;left: 15%;top: 12%;}
